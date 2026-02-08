@@ -4,7 +4,8 @@
 
 
 <div id="" align="center">
-   <img src="https://i.ibb.co/WWLNLGdd/ezgif-427708336fcc87c8.gif">
+   <img src="https://i.pinimg.com/736x/3e/f5/b5/3ef5b580d1d6c78eb814918c7a3657cc.jpg">
+  
 
  [rentry](https://rentry.co/esoterism) 
  <div id="" align="center">
