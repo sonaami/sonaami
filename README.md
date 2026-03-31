@@ -14,7 +14,7 @@
 <table align="center" style="border:none; border-collapse:collapse;">
   <tr style="border:none;">
     <td style="border:none;">
-      <img src="https://i.imgur.com/vD8px5L.png" width="500">
+      <img src="https://i.imgur.com/vD8px5L.png" width="700">
     </td>
     <td style="border:none; padding-left:20px;">
       <img src="https://i.postimg.cc/nhvbwGmn/cooltext505220662633929-(1).png">
