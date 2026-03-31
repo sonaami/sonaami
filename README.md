@@ -1,16 +1,42 @@
-<div id="" align="center">
 
-  ![](https://komarev.com/ghpvc/?username=qcoven&label=⠀⠀⠀stalkers⠀⠀⠀&style=plastic&color=302c2e&base=5200) </div>
-
-
-<div id="" align="center">
-   <img src="https://i.pinimg.com/736x/3e/f5/b5/3ef5b580d1d6c78eb814918c7a3657cc.jpg">
-  
-
- [rentry](https://rentry.co/esoterism) 　[ata](https://sacrificial.atabook.org/) 
- <div id="" align="center">
-  there is something evil in me
-
+<div align="center">
+  <img src="https://yokai.crd.co/assets/images/image34.png?v=b4df531c">
 </div>
-<div id="" align="center">
-   <img src="https://i.postimg.cc/6Q6NwGqx/bunkis.gif"></div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=qcoven&label=⠀⠀⠀hiii⠀⠀⠀&style=plastic&color=4bbfc0&base=5200" />
+</div>
+
+<br>
+
+<table align="center" style="border:none; border-collapse:collapse;">
+  <tr style="border:none;">
+    <td style="border:none;">
+      <img src="https://i.imgur.com/egvO8Pq.png" width="500">
+    </td>
+    <td style="border:none; padding-left:20px;">
+      $${\textit{\color{#4bbfc0}my house is on\ \color{#e3f0da}pretty girl avenue}}$$
+        $${\textit{\color{#e3f0da}MY SPAM ACC! @1480p \ \color{#4bbfc0}hiding freely <3}}$$
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <a href="https://rentry.co/esoterism">
+    <img src="https://img.shields.io/badge/rentry-%234bbfc0?style=for-the-badge"/> 
+  </a>
+  　
+  <a href="https://sacrificial.atabook.org/">
+    <img src="https://img.shields.io/badge/atabook-%23e3f0da?style=for-the-badge" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://i1.glitter-graphics.org/pub/157/157641b27q8mcaol.gif">
+</div>
