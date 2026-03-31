@@ -17,8 +17,12 @@
       <img src="https://i.imgur.com/egvO8Pq.png" width="500">
     </td>
     <td style="border:none; padding-left:20px;">
+      <img src="https://i.postimg.cc/nhvbwGmn/cooltext505220662633929-(1).png">
+      <br>
       $${\textit{\color{#4bbfc0}my house is on\ \color{#e3f0da}pretty girl avenue}}$$
         $${\textit{\color{#e3f0da}MY SPAM ACC! @1480p \ \color{#4bbfc0}hiding freely <3}}$$
+          <br>
+           <img src="https://i.postimg.cc/Vk54JffY/cooltext505220539979805.png">
     </td>
   </tr>
 </table>
